@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagickCentral", "MagickCentral\MagickCentral.csproj", "{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{91181831-CCCC-4553-9527-DB7E5749B17F} = {91181831-CCCC-4553-9527-DB7E5749B17F}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagickScriptEditor", "MagickScriptEditor\MagickScriptEditor.csproj", "{91181831-CCCC-4553-9527-DB7E5749B17F}"
+EndProject
+Project("{6141683F-8A12-4E36-9623-2EB02B2C2303}") = "MagickSuiteSetup", "MagickSuiteSetup\MagickSuiteSetup.isproj", "{ACB64954-E406-40E0-8AE4-222623B578A6}"
+	ProjectSection(ProjectDependencies) = postProject
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8} = {1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}
+		{91181831-CCCC-4553-9527-DB7E5749B17F} = {91181831-CCCC-4553-9527-DB7E5749B17F}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		CD_ROM|Any CPU = CD_ROM|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		DVD-5|Any CPU = DVD-5|Any CPU
+		Release|Any CPU = Release|Any CPU
+		SingleImage|Any CPU = SingleImage|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{1F6FB10E-5D7C-4E9B-817C-EFA4D73D77B8}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.CD_ROM|Any CPU.ActiveCfg = Release|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.CD_ROM|Any CPU.Build.0 = Release|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.DVD-5|Any CPU.ActiveCfg = Debug|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.DVD-5|Any CPU.Build.0 = Debug|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.SingleImage|Any CPU.ActiveCfg = Release|Any CPU
+		{91181831-CCCC-4553-9527-DB7E5749B17F}.SingleImage|Any CPU.Build.0 = Release|Any CPU
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.CD_ROM|Any CPU.ActiveCfg = CD_ROM
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.CD_ROM|Any CPU.Build.0 = CD_ROM
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.Debug|Any CPU.ActiveCfg = DVD-5
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.Debug|Any CPU.Build.0 = DVD-5
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.DVD-5|Any CPU.ActiveCfg = DVD-5
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.DVD-5|Any CPU.Build.0 = DVD-5
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.Release|Any CPU.ActiveCfg = SingleImage
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.Release|Any CPU.Build.0 = SingleImage
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.SingleImage|Any CPU.ActiveCfg = SingleImage
+		{ACB64954-E406-40E0-8AE4-222623B578A6}.SingleImage|Any CPU.Build.0 = SingleImage
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,19 @@
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\MagickCentral.csprojResolveAssemblyReference.cache
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\MagickCentral.csproj.GenerateResource.Cache
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\Magick.NET-x86.dll
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\Magick.NET-x86.xml
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\MagickCentral.MagickForm.resources
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\MagickCentral.Properties.Resources.resources
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\MagickCentral.ImageForm.resources
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\Magick Central.exe.licenses
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\MagickScript.xsd
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\Magick Central.exe
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\Magick Central.pdb
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\Magick Script Editor.exe
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\ICSharpCode.TextEditor.dll
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\Magick Script Editor.pdb
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\ICSharpCode.TextEditor.xml
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\Magick Central.exe
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\Magick Central.pdb
+D:\Projects\MagickSuite\MagickCentral\obj\Debug\MagickCentral.AboutBox.resources
+D:\Projects\MagickSuite\MagickCentral\bin\Debug\Empty.msl

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Created by Liquid XML Data Binding Libraries (www.liquid-technologies.com) for Liquid Technologies Limited-->
+<lxdb8:LXDBWizardProject xmlns:xs="http://www.w3.org/2001/XMLSchema-instance" xmlns:lxdb8="http://www.liquid-technologies.com/LTWizProjectLib8" ProjectVersion="9.0.11.3078">
+	<lxdb8:Schema FullPathName="D:\Projects\MagickSuite\MagickScript.xsd" SelectedSchemaType="XSD" XDRAllowAdditionalAttributes="false" XDRIgnoreSimpleElements="false" SelectedLanguage="CS">
+		<lxdb8:CPP CollectionMapping="Original" OutputPath="D:\Projects\MagickSuite\MagickScript.xsd.Output\SourceCodeCPP" DocumentationOutputPath="D:\Projects\MagickSuite\MagickScript.xsd.Output\DocumentationCPP" MappingFilePath="D:\Projects\MagickSuite\MagickScript.xsd_NameMapping.cpp.xml" DefaultClassNamespace="MagickScriptLib"/>
+		<lxdb8:CSharp CollectionMapping="Original" OutputPath="D:\Projects\MagickSuite\MagickScriptLib" DocumentationOutputPath="D:\Projects\MagickSuite\MagickScriptDoc" MappingFilePath="D:\Projects\MagickSuite\MagickScript.xsd_NameMapping.cs.xml" DefaultClassNamespace="MagickScriptLib" BaseNamespace="">
+			<lxdb8:DotNetPlatformOptions>
+				<lxdb8:DotNetDevEnv>VS2010</lxdb8:DotNetDevEnv>
+				<lxdb8:DotNetPlatform>DotNet40</lxdb8:DotNetPlatform>
+			</lxdb8:DotNetPlatformOptions>
+		</lxdb8:CSharp>
+		<lxdb8:Java CollectionMapping="Original" OutputPath="D:\Projects\MagickSuite\MagickScript.xsd.Output\SourceCodeJava" DocumentationOutputPath="D:\Projects\MagickSuite\MagickScript.xsd.Output\DocumentationJava" MappingFilePath="D:\Projects\MagickSuite\MagickScript.xsd_NameMapping.java.xml" DefaultPackageName="MagickScriptLib" BasePackage=""/>
+		<lxdb8:VBNet CollectionMapping="Original" OutputPath="D:\Projects\MagickSuite\MagickScript.xsd.Output\SourceCodeVBNet" DocumentationOutputPath="D:\Projects\MagickSuite\MagickScript.xsd.Output\DocumentationVBNet" MappingFilePath="D:\Projects\MagickSuite\MagickScript.xsd_NameMapping.vbnet.xml" DefaultClassNamespace="MagickScriptLib" BaseNamespace="">
+			<lxdb8:DotNetPlatformOptions>
+				<lxdb8:DotNetDevEnv>VS2010</lxdb8:DotNetDevEnv>
+				<lxdb8:DotNetPlatform>DotNet40</lxdb8:DotNetPlatform>
+			</lxdb8:DotNetPlatformOptions>
+		</lxdb8:VBNet>
+		<lxdb8:VB6 CollectionMapping="Original" OutputPath="D:\Projects\MagickSuite\MagickScript.xsd.Output\SourceCodeVB" DocumentationOutputPath="D:\Projects\MagickSuite\MagickScript.xsd.Output\DocumentationVB" MappingFilePath="D:\Projects\MagickSuite\MagickScript.xsd_NameMapping.vb6.xml" ComponentName="MagickScriptLib" Description="" MajorVersion="1" MinorVersion="0" Revision="0" ProductName=""/>
+	</lxdb8:Schema>
+	<lxdb8:Output CreateDocumentation="true" CreateSampleApplication="true" OutputDateInHeaderBlock="false" OutputProjectFiles="true" OutputFastInfosetTables="false" OutputPropertyEvents="false" OutputElmRefAsInterface="true"/>
+	<lxdb8:PostBuild BuildHelp="false" OpenHelp="false" OpenProject="false"/>
+</lxdb8:LXDBWizardProject>

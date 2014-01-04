@@ -1,0 +1,16 @@
+D:\Projects\MagickSuite\MagickScriptBuilder\obj\Debug\MagickScriptBuilder.Properties.Resources.resources
+D:\Projects\MagickSuite\MagickScriptBuilder\obj\Debug\MagickScriptBuilder.csproj.GenerateResource.Cache
+D:\Projects\MagickSuite\MagickScriptBuilder\obj\Debug\MagickScriptBuilder.exe.licenses
+D:\Projects\MagickSuite\MagickScriptBuilder\bin\Debug\MagickScriptBuilder.exe
+D:\Projects\MagickSuite\MagickScriptBuilder\bin\Debug\MagickScriptBuilder.pdb
+D:\Projects\MagickSuite\MagickScriptBuilder\bin\Debug\Magick.NET-x86.dll
+D:\Projects\MagickSuite\MagickScriptBuilder\bin\Debug\Magick.NET-x86.xml
+D:\Projects\MagickSuite\MagickScriptBuilder\obj\Debug\MagickScriptBuilder.exe
+D:\Projects\MagickSuite\MagickScriptBuilder\obj\Debug\MagickScriptBuilder.pdb
+D:\Projects\MagickSuite\MagickScriptBuilder\bin\Debug\ICSharpCode.TextEditor.dll
+D:\Projects\MagickSuite\MagickScriptBuilder\bin\Debug\ICSharpCode.TextEditor.xml
+D:\Projects\MagickSuite\MagickScriptBuilder\obj\Debug\MagickScriptBuilder.csprojResolveAssemblyReference.cache
+D:\Projects\MagickSuite\MagickScriptBuilder\bin\Debug\MagickScript.xsd
+D:\Projects\MagickSuite\MagickScriptBuilder\obj\Debug\MagickScriptBuilder.MagickScriptForm.resources
+D:\Projects\MagickSuite\MagickScriptBuilder\bin\Debug\Default.msl
+D:\Projects\MagickSuite\MagickScriptBuilder\obj\Debug\MagickScriptBuilder.AboutBox.resources

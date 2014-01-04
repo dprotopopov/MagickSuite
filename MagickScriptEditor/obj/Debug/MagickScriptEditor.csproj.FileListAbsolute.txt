@@ -1,0 +1,17 @@
+D:\Projects\MagickSuite\MagickScriptEditor\bin\Debug\MagickScript.xsd
+D:\Projects\MagickSuite\MagickScriptEditor\bin\Debug\Magick Script Editor.exe
+D:\Projects\MagickSuite\MagickScriptEditor\bin\Debug\Magick Script Editor.pdb
+D:\Projects\MagickSuite\MagickScriptEditor\bin\Debug\ICSharpCode.TextEditor.dll
+D:\Projects\MagickSuite\MagickScriptEditor\bin\Debug\Magick.NET-x86.dll
+D:\Projects\MagickSuite\MagickScriptEditor\bin\Debug\ICSharpCode.TextEditor.xml
+D:\Projects\MagickSuite\MagickScriptEditor\bin\Debug\Magick.NET-x86.xml
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\MagickScriptEditor.AboutBox.resources
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\MagickScriptEditor.Properties.Resources.resources
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\MagickScriptEditor.MagickScriptForm.resources
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\MagickScriptEditor.csproj.GenerateResource.Cache
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\Magick Script Editor.exe.licenses
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\Magick Script Editor.exe
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\Magick Script Editor.pdb
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\MagickScriptEditor.SplashScreenForm.resources
+D:\Projects\MagickSuite\MagickScriptEditor\bin\Debug\Empty.msl
+D:\Projects\MagickSuite\MagickScriptEditor\obj\Debug\MagickScriptEditor.csprojResolveAssemblyReference.cache

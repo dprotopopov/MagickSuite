@@ -1,0 +1,14 @@
+D:\Projects\MagickShow\MagickShow\bin\Debug\MagickShow.exe
+D:\Projects\MagickShow\MagickShow\bin\Debug\MagickShow.pdb
+D:\Projects\MagickShow\MagickShow\bin\Debug\Magick.NET-x86.dll
+D:\Projects\MagickShow\MagickShow\bin\Debug\Magick.NET-x86.xml
+D:\Projects\MagickShow\MagickShow\obj\Debug\MagickShow.Properties.Resources.resources
+D:\Projects\MagickShow\MagickShow\obj\Debug\MagickShow.csproj.GenerateResource.Cache
+D:\Projects\MagickShow\MagickShow\obj\Debug\MagickShow.exe.licenses
+D:\Projects\MagickShow\MagickShow\obj\Debug\MagickShow.exe
+D:\Projects\MagickShow\MagickShow\obj\Debug\MagickShow.pdb
+D:\Projects\MagickShow\MagickShow\obj\Debug\MagickShow.MagickScriptForm.resources
+D:\Projects\MagickShow\MagickShow\obj\Debug\MagickShow.MagickShowForm.resources
+D:\Projects\MagickShow\MagickShow\obj\Debug\MagickShow.ImageForm.resources
+D:\Projects\MagickSuite\MagickShow\obj\Debug\MagickShow.exe
+D:\Projects\MagickSuite\MagickShow\obj\Debug\MagickShow.pdb

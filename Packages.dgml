@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DirectedGraph GraphDirection="LeftToRight" xmlns="http://schemas.microsoft.com/vs/2009/dgml">
+  <Nodes>
+    <Node Id="MagickScriptBuilder" Label="MagickScriptBuilder" Category="Проект" />
+    <Node Id="ICSharpCode.TextEditor 3.2.1.6466" Label="ICSharpCode.TextEditor 3.2.1.6466" Category="Пакет" />
+    <Node Id="ICSharpCode.TextEditor.Sample 3.2.1.6466" Label="ICSharpCode.TextEditor.Sample 3.2.1.6466" Category="Пакет" />
+    <Node Id="Magick.NET-Q16-x86 6.8.7.901" Label="Magick.NET-Q16-x86 6.8.7.901" Category="Пакет" />
+    <Node Id="NetIde.ICSharpCode.TextEditor 3.2.1.6473" Label="NetIde.ICSharpCode.TextEditor 3.2.1.6473" Category="Пакет" />
+    <Node Id="MagickCentral" Label="MagickCentral" Category="Проект" />
+    <Node Id="Magick.NET-Q16-x86 6.8.7.901" Label="Magick.NET-Q16-x86 6.8.7.901" Category="Пакет" />
+  </Nodes>
+  <Links>
+    <Link Source="ICSharpCode.TextEditor.Sample 3.2.1.6466" Target="ICSharpCode.TextEditor 3.2.1.6466" Category="Зависимость пакета" />
+    <Link Source="MagickScriptBuilder" Target="ICSharpCode.TextEditor.Sample 3.2.1.6466" Category="Установленный пакет" />
+    <Link Source="MagickScriptBuilder" Target="Magick.NET-Q16-x86 6.8.7.901" Category="Установленный пакет" />
+    <Link Source="MagickScriptBuilder" Target="NetIde.ICSharpCode.TextEditor 3.2.1.6473" Category="Установленный пакет" />
+    <Link Source="MagickCentral" Target="Magick.NET-Q16-x86 6.8.7.901" Category="Установленный пакет" />
+  </Links>
+  <Categories>
+    <Category Id="Проект" />
+    <Category Id="Пакет" />
+  </Categories>
+  <Styles>
+    <Style TargetType="Node" GroupLabel="Проект" ValueLabel="True">
+      <Condition Expression="HasCategory('Проект')" />
+      <Setter Property="Background" Value="Blue" />
+    </Style>
+    <Style TargetType="Link" GroupLabel="Зависимость пакета" ValueLabel="True">
+      <Condition Expression="HasCategory('Зависимость пакета')" />
+      <Setter Property="Background" Value="Yellow" />
+    </Style>
+  </Styles>
+</DirectedGraph>
